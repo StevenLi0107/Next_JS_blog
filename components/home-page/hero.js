@@ -8,7 +8,7 @@ function Hero() {
         </div>
         <h1>Hi, I&apos;m Steven</h1>
         <p>
-            Iblog about web development
+            This is the blog about web development using Next JS.
         </p>
 
     </section>
